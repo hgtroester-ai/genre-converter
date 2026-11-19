@@ -124,14 +124,12 @@ Use the generated MIDI clips in your Ableton Live session and customize them to 
 
 ## Downloads & Releases
 
-Available downloads:
+**Latest release: Genre Converter 9.5.4**
 
-- Ready-to-install Ableton Extension (`.ablx`)
-- Complete source code (`.zip`)
-- Version information
-- Release notes
-- Installation instructions
+- [Download installable Ableton Extension (.ablx)](https://github.com/hgtroester-ai/genre-converter/releases/download/v9.5.4/Genre_Konverter_9.5.4.ablx)
+- [Download complete source code (.zip)](https://github.com/hgtroester-ai/genre-converter/releases/download/v9.5.4/Genre_Konverter_9.5.4_source.zip)
 
+For source information, see [Sources & Licenses](https://github.com/hgtroester-ai/hgt-ableton-extensions/tree/main/Documentation).
 Visit the Releases section for the latest version.
 
 ---
