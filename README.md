@@ -15,22 +15,13 @@ The goal is to go beyond static drum loops and create dynamic performances that 
 
 ## Key Features
 
-### 1. Genre Selection
+### 1. Genre Selection – 25 Musical Genres
 
-Create drum arrangements inspired by different musical styles.
+Explore 25 different musical genres, each with its own rhythmic characteristics, drum patterns and playing styles.
 
-Genre styles include:
+The Genre Converter provides a broad range of musical directions, from classic rock styles to modern and alternative genres.
 
-- Classic Rock
-- Blues Rock
-- Alternative Rock
-- Punk
-- Funk
-- Reggae
-- Ska
-- Hip-Hop
-
-Additional genre-specific pattern variations expand the creative possibilities.
+Every genre has its own dedicated rhythmic foundation, designed to create authentic and versatile drum arrangements.
 
 ### 2. Intelligent Groove Engine
 
