@@ -209,15 +209,12 @@ For the central documentation covering all three HGT Ableton Extensions:
 
 **Latest release: Genre Converter 9.6.3**
 
-- [Genre Converter releases on GitHub](https://github.com/hgtroester-ai/genre-converter/releases)
+- [Download installable Ableton Extension (.ablx)](https://github.com/hgtroester-ai/genre-converter/releases/download/v9.6.3/Genre_Konverter_9.6.3.ablx)
+- [Download complete source code (.zip)](https://github.com/hgtroester-ai/genre-converter/releases/download/v9.6.3/Genre_Konverter_9.6.3_source.zip)
 
-The release page provides:
+Check [GitHub Releases](https://github.com/hgtroester-ai/genre-converter/releases) for version numbers, updates and release notes.
 
-- `Genre_Konverter_9.6.3.ablx` — Installable Ableton Extension
-- `Genre_Konverter_9.6.3_source.zip` — Complete source code
-
-Check GitHub Releases for version numbers, updates and release notes.
-
+---
 ---
 
 ## 7. About HGT
