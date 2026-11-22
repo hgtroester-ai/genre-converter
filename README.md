@@ -235,8 +235,8 @@ Check [GitHub Releases](https://github.com/hgtroester-ai/genre-converter/release
 
 Music connects people.
 
-Independent development, creative ideas and a shared passion for music.
+Independent development, creative ideas and a passion for music.
 
-**HGT – Developed with passion. Shared with the community.**
+**HGT – Developed with passion. Shared freely.**
 
-Free to use. Community supported.
+Free to use. Independently developed.
