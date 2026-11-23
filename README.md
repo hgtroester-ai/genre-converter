@@ -3,7 +3,7 @@
 
 **Build complete drum arrangements. Shape the groove. Give every song its own development.**
 
-<img src="GenreConverter.png" width="320" alt="Genre Converter">
+![Genre Converter](https://github.com/hgtroester-ai/genre-converter/blob/main/GenreConverter.png "GenreConverter.png")
 
 Genre Converter is an independent Ableton Live extension for creating genre-based MIDI drum arrangements. It combines genre-specific groove engines, drummer profiles, fills, song-section development and arrangement-level musical dramaturgy.
 
