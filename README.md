@@ -206,15 +206,15 @@ For the central documentation covering all three HGT Ableton Extensions:
 
 ---
 
-## 6. Use and Responsibility
+## 6. Disclaimer
 
-This extension is developed by HGT on a voluntary basis and provided free of charge.
+The HGT Ableton Extensions are developed voluntarily and provided free of charge.
 
-It is developed and tested with care, but errors or compatibility issues cannot be completely ruled out. Use is at your own responsibility.
+The software is provided "as is", without any warranty.
 
-Please save and back up your Ableton Live projects and related files regularly, especially before installing or updating this extension.
+HGT accepts no liability for damages, software errors, crashes, interruptions, project loss or data loss resulting from the use of the extensions, to the fullest extent permitted by applicable law.
 
-No guarantee of error-free or uninterrupted operation is provided. Liability for damages or data loss is excluded to the extent permitted by applicable law. Mandatory statutory rights remain unaffected.
+Users are responsible for backing up their projects and data.
 
 ---
 
