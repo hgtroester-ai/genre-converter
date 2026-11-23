@@ -1,9 +1,9 @@
 # Genre Converter
-### by HGT · Supported with AI
+### by HGT · Developed with AI assistance
 
 **Build complete drum arrangements. Shape the groove. Give every song its own development.**
 
-![Drum Construction Kit – Full Interface](./GenreConverter.png)
+<img src="GenreConverter.png" width="320" alt="Genre Converter">
 
 Genre Converter is an independent Ableton Live extension for creating genre-based MIDI drum arrangements. It combines genre-specific groove engines, drummer profiles, fills, song-section development and arrangement-level musical dramaturgy.
 
@@ -40,7 +40,7 @@ Shape the playing character of the generated performance.
 
 ### Song Sections & Arrangement
 
-Build a complete drum arrangement with individual song sections.
+Build a complete drum arrangement with individual song sections:
 
 - Intro
 - Verse
@@ -52,18 +52,11 @@ Sections can have their own musical settings and development. Genre and drummer 
 
 ### First / Second / Final Pass
 
-Create subtle development between repeated song sections.
-
-The pass intelligence can make restrained changes between the First, Second and Final Pass while retaining the identity of the original groove. Section-aware variation helps repeated verses or choruses feel related without being identical.
+Create subtle development between repeated song sections. Pass intelligence can make restrained changes between the First, Second and Final Pass while retaining the identity of the original groove.
 
 ### Fill Engine
 
-Generate genre-aware fills and transitions.
-
-- Fills can respond to genre, section and repetition context.
-- Specialized fill logic supports styles such as Funk, Punk, Jazz, Reggae, Ska and Jungle.
-- Fill intensity and variation controls shape the character of transitions.
-- Phrase-aware placement supports musical section endings and transitions.
+Generate genre-aware fills and transitions. Fill logic responds to genre, section and repetition context. Fill intensity and variation controls shape the character of transitions.
 
 ### Song Dramaturgy
 
@@ -74,11 +67,11 @@ Shape the energy curve of the arrangement with four musical arc presets:
 - **Drop & Return**
 - **Cinematic Rise**
 
-Dramaturgy Strength blends the selected arc with the established section-energy behaviour. Next Section can be set automatically or directed to a chosen section or Song End. Transition shaping works on existing notes and respects lane locks.
+Dramaturgy Strength blends the selected arc with the established section-energy behaviour. Next Section can be set automatically or directed to a chosen section or Song End.
 
 ### MIDI Map & Lane Controls
 
-Use the MIDI mapping options to match the generated drum notes to the destination instrument. Lane locks protect selected drum lanes from unwanted changes during supported generation and refinement operations.
+Use MIDI mapping options to match generated drum notes to the destination instrument. Lane locks protect selected drum lanes from unwanted changes during supported generation and refinement operations.
 
 Third-party product names used in MIDI mapping identify note assignments only. They do not indicate that audio recordings, samples, presets or software from those manufacturers are included.
 
@@ -86,13 +79,11 @@ Third-party product names used in MIDI mapping identify note assignments only. T
 
 Audition the generated drum performance before using it in your Ableton Live arrangement.
 
-The preview engine uses the same performance transformation principles as the generated MIDI, so groove timing and velocity expression are intended to correspond to the MIDI result.
-
 - Preview playback and Stop control
 - Preview mixer and lane routing
 - Stereo panning and level controls
 - Velocity-layer playback
-- Preview stability and level protection
+- Preview level protection
 
 ---
 
@@ -104,15 +95,15 @@ Select the musical style that provides the foundation for your drum arrangement.
 
 **Step 2 – Set the Tempo and Groove**
 
-Adjust BPM, Performance Feel / Pocket, Swing and Groove Variation to shape the basic performance.
+Adjust BPM, Performance Feel / Pocket, Swing and Groove Variation.
 
 **Step 3 – Choose a Drummer Character**
 
-Select a suitable Drummer Profile and adjust the performance settings.
+Select a Drummer Profile and adjust the performance settings.
 
 **Step 4 – Shape the Song Sections**
 
-Work with Intro, Verse, Chorus, Bridge and Outro. Set the section development and pass behaviour.
+Work with Intro, Verse, Chorus, Bridge and Outro. Set section development and pass behaviour.
 
 **Step 5 – Configure Fills and Song Dramaturgy**
 
@@ -135,10 +126,10 @@ This closes the extension without creating or transferring any MIDI data to Able
 ### System Requirements
 
 - Ableton Live Suite with Extensions support.
-- At release time, Ableton lists Extensions for Live 12 Suite Beta 12.4.5 or later.
+- Ableton Live version with JavaScript Extensions support; check the current Ableton release notes for version and beta availability.
 - macOS or Windows systems supported by the corresponding Ableton Live version.
 
-**Important:** Ableton Extensions are not available in Live Standard, Intro or Lite. Availability and compatibility depend on Ableton's current Extensions support and beta programme.
+**Important:** Ableton Extensions are not available in Live Standard, Intro or Lite.
 
 ### Installation
 
@@ -164,7 +155,7 @@ This closes the extension without creating or transferring any MIDI data to Able
 - The SDK runtime is integrated into the `.ablx` application bundle.
 - Rebuilding from source requires the matching Ableton Extensions SDK and CLI obtained separately from Ableton.
 
-The public source archive does not redistribute the Ableton SDK or CLI as standalone packages. No separate JavaScript development environment or SDK installation is required to use the pre-built `.ablx` package.
+No separate JavaScript development environment or SDK installation is required to use the pre-built `.ablx` package.
 
 ---
 
@@ -172,16 +163,16 @@ The public source archive does not redistribute the Ableton SDK or CLI as standa
 
 ### Audio Preview — Phazite Sounds
 
-The Genre Converter 9.6.2 preview uses **37 embedded MP3 sound payloads derived from Phazite Sounds**, documented under the **CC0 1.0 Universal** dedication.
+The Genre Converter preview uses 37 embedded MP3 sound payloads derived from **Phazite Sounds**, documented under the **CC0 1.0 Universal** dedication.
 
 - **Sound source:** [Phazite Sounds](https://github.com/august-byrne/phazite-sounds)
 - **License:** [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)
 
-The sound set contains four velocity layers each for Kick, Snare, Rim / Side Stick, Low Tom, Mid Tom, High Tom, Closed Hi-Hat, Open Hi-Hat and Ride, plus one dedicated long-decay Crash one-shot.
+The documented sound set contains four velocity layers each for Kick, Snare, Rim / Side Stick, Low Tom, Mid Tom, High Tom, Closed Hi-Hat, Open Hi-Hat and Ride, plus one dedicated long-decay Crash one-shot.
 
-MIDI velocity selects one of four recorded layers: 1–31, 32–63, 64–95 and 96–127. The 37 MP3 payloads are embedded in the extension. Loose duplicate MP3 files and the original WAV/FLAC source recordings are not included in the public source archive.
+MIDI velocity selects one of four recorded layers: 1–31, 32–63, 64–95 and 96–127. The MP3 payloads are embedded in the extension. The original WAV/FLAC source recordings are not included as loose files in the public source archive.
 
-HGT names Phazite Sounds as the source for transparency. Asset provenance and SHA-256 checksums are recorded in `SOUND-ASSETS.md` and `SOUND-ASSET-MANIFEST.json`.
+HGT names Phazite Sounds as the source for transparency. Asset provenance and payload verification information are documented in `SOUND-ASSETS.md` and `SOUND-ASSET-MANIFEST.json`.
 
 ### MIDI Mapping Compatibility
 
@@ -195,13 +186,13 @@ The license permits free use of the unmodified software for personal, educationa
 
 The HGT project license does not replace or change the separate CC0 1.0 dedication for the Phazite sound assets or the Ableton Extensions SDK license.
 
-For detailed information, see the files included in the source package:
+For detailed information, open the individual documentation files in the repository. The same documents are also included in the source package:
 
-- `LICENSE.md` — HGT Free Music Creator License 1.0
-- `THIRD-PARTY-NOTICES.md` — Ableton SDK, audio assets and trademark notices
-- `SOUND-ASSETS.md` — Phazite Sounds provenance and audio asset details
-- `SOUND-ASSET-MANIFEST.json` — embedded audio payload hashes and byte lengths
-- `RELEASE-NOTES-9.6.2.md` — release-specific changes and verification limits
+- [LICENSE.md](https://github.com/hgtroester-ai/genre-converter/blob/main/Documentation/LICENSE.md) — HGT Free Music Creator License 1.0
+- [THIRD-PARTY-NOTICES.md](https://github.com/hgtroester-ai/genre-converter/blob/main/Documentation/THIRD-PARTY-NOTICES.md) — Ableton SDK, audio assets and trademark notices
+- [SOUND-ASSETS.md](https://github.com/hgtroester-ai/genre-converter/blob/main/Documentation/SOUND-ASSETS.md) — Phazite Sounds provenance and audio asset details
+- [SOUND-ASSET-MANIFEST.json](https://github.com/hgtroester-ai/genre-converter/blob/main/Documentation/SOUND-ASSET-MANIFEST.json) — embedded audio payload inventory and verification data
+- [RELEASE-NOTES-9.6.3.md](https://github.com/hgtroester-ai/genre-converter/blob/main/Documentation/RELEASE-NOTES-9.6.3.md) — release-specific changes and verification notes
 
 For the central documentation covering all three HGT Ableton Extensions:
 
@@ -232,7 +223,6 @@ No guarantee of error-free or uninterrupted operation is provided. Liability for
 
 Check [GitHub Releases](https://github.com/hgtroester-ai/genre-converter/releases) for version numbers, updates and release notes.
 
----
 ---
 
 ## 8. About HGT
