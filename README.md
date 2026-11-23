@@ -157,6 +157,7 @@ This closes the extension without creating or transferring any MIDI data to Able
 - Rebuilding from source requires the Ableton Extensions SDK and CLI, available separately from Ableton.
 
 No additional SDK installation is required to use the pre-built `.ablx` package.
+
 ---
 
 ## 5. Audio Assets, Sources & Licenses
