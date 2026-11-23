@@ -1,4 +1,5 @@
 # Genre Converter
+
 ### by HGT · Developed with AI assistance
 
 **Build complete drum arrangements. Shape the groove. Give every song its own development.**
@@ -174,6 +175,10 @@ MIDI velocity selects one of four recorded layers: 1–31, 32–63, 64–95 and 
 
 HGT names Phazite Sounds as the source for transparency. Asset provenance and payload verification information are documented in `SOUND-ASSETS.md` and `SOUND-ASSET-MANIFEST.json`.
 
+### Artwork
+
+The HGT banner, logo and visual elements are original artwork created by HGT, with AI assistance based on HGT's own descriptions and creative direction. Their geometric visual language is inspired by Piet Mondrian; they are not reproductions of Mondrian artworks.
+
 ### MIDI Mapping Compatibility
 
 Toontrack / EZdrummer, Native Instruments Battery / Kontakt and Korg names may appear as MIDI mapping or compatibility references. These identify MIDI note assignments only. No audio recordings, samples, presets or software from these manufacturers are included. Such references do not imply endorsement, partnership or affiliation.
@@ -193,6 +198,8 @@ For detailed information, open the individual documentation files in the reposit
 - [SOUND-ASSETS.md](https://github.com/hgtroester-ai/genre-converter/blob/main/Documentation/SOUND-ASSETS.md) — Phazite Sounds provenance and audio asset details
 - [SOUND-ASSET-MANIFEST.json](https://github.com/hgtroester-ai/genre-converter/blob/main/Documentation/SOUND-ASSET-MANIFEST.json) — embedded audio payload inventory and verification data
 - [RELEASE-NOTES-9.6.3.md](https://github.com/hgtroester-ai/genre-converter/blob/main/Documentation/RELEASE-NOTES-9.6.3.md) — release-specific changes and verification notes
+- [SOUND-PROVENANCE-9.6.3.md](https://github.com/hgtroester-ai/genre-converter/blob/main/Documentation/SOUND-PROVENANCE-9.6.3.md) — release-specific sound provenance record
+- [LEGAL-RELEASE-CHECKLIST-9.6.3.md](https://github.com/hgtroester-ai/genre-converter/blob/main/Documentation/LEGAL-RELEASE-CHECKLIST-9.6.3.md) — release documentation checklist and limitations
 
 For the central documentation covering all three HGT Ableton Extensions:
 
