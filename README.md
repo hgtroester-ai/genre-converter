@@ -122,6 +122,12 @@ Choose fill behaviour and, if desired, a Song Arc preset and Next Section transi
 
 Audition the result, refine the settings and generate the MIDI arrangement for further editing in Ableton Live.
 
+**Closing the Extension Without Generating MIDI**
+
+If you want to close the extension without generating or inserting MIDI clips, simply click the **Cancel** button.
+
+This closes the extension without creating or transferring any MIDI data to Ableton Live. Existing clips and MIDI content remain unchanged.
+
 ---
 
 ## 3. Installation & Requirements
